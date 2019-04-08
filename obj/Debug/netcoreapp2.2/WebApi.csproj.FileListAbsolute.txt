@@ -1,0 +1,14 @@
+C:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
